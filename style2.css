@@ -1,0 +1,94 @@
+
+.navbar{
+    background-color: rgb(235, 247, 194);
+    border-radius: 10px;
+    display: flex;
+}
+
+.cchhaarr{
+    margin-top: 2.5%;
+    margin-left: 1%;
+}
+
+.d-flex{
+    margin-top: 15%;
+    margin-left: 400%;
+    display: flex;
+}
+.kit{
+    
+    margin-top: 2%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #e9edf1;
+}
+.sea{
+    border-radius: 8px;
+}
+
+.mag-icon{
+    margin-top: 1px;
+    margin-left: 9px;
+
+}
+
+/**hero section**/
+
+.search{
+    margin-top: 30px;
+    margin-left: 55%;
+}
+
+
+.shop{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    
+}
+
+.box{
+    border: 1px solid  #c5c9cd;
+    height: 100px;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+
+    
+}
+
+.char{
+    display: flex;   
+    justify-content: center;
+    color: rgb(60, 59, 58);
+    
+
+}
+
+
+
+/** kitchen **/ 
+
+.lay{
+    height: 45px;
+    border: 1px solid #c5c9cd;
+    border-radius: 9px;
+    margin: 0px 7% 15px 7% ;
+    display: flex;
+    box-shadow: 4px 4px 30px rgb(0, 0, 0, 0.06);
+}
+
+.back{
+    height: 30px;
+    width: 100px;
+    margin-left: 93.5%;
+    background-color: rgb(237, 222, 23);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+
+}
+
+

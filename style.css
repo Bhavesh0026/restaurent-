@@ -1,0 +1,21 @@
+.design{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(240, 229, 72);
+    border-radius: 100%;
+}
+.order{
+    padding-left: 80%;
+    padding-top: 10%;
+}
+
+.name{
+    padding-left: 250px;
+    text-decoration: none;
+}
+
+.logo{
+    padding: 100px 0px 0px 290px;
+}
+
+
